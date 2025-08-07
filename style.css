@@ -109,7 +109,7 @@ nav a{
 
 .em h1{
     color: aliceblue;
-    font-size: 13rem;
+    font-size: 12rem;
     margin-top: 15px;
 }
 
@@ -153,4 +153,5 @@ nav a{
 
 .image img{
     object-fit: cover;
+
 }
